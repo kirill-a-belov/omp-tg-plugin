@@ -1,0 +1,4 @@
+{
+  "token": "<BOT_TOKEN>",
+  "allowed_user_ids": [123456789]
+}
