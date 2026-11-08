@@ -2,3 +2,4 @@ telegram-bridge.json
 telegram-bridge.state.json
 node_modules/
 .DS_Store
+.idea/
